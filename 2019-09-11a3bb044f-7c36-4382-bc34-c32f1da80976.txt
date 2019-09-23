@@ -1,0 +1,43 @@
+2019-09-11 14:16:17
+SAFEAUTO
+83%
+12th Avenue
+90%
+9th Avenue East
+98%
+9th Avenue West
+100%
+North Cannon
+89%
+South Cannon
+78%
+Ohio Union North
+100%
+Ohio Union South
+23%
+Gateway
+66%
+11th Avenue
+97%
+Neil Avenue
+97%
+Tuttle
+97%
+Northwest
+96%
+Arps Hall
+79%
+Lane Avenue
+80%
+West Lane Avenue
+53%
+Carmack Lot - 1
+86%
+Carmack Lot - 2/3
+68%
+Carmack Lot - 4
+92%
+Carmack Lot - 5
+95%
+Buckeye Lot
+87%

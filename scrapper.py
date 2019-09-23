@@ -3,16 +3,15 @@ import time
 from datetime import datetime
 import uuid
 
-
-
 #time.sleep(22050)
 
 driver= webdriver.Chrome()
-
 driver.get('http://osu.campusparc.com')
 
-i = 1
-while i < 5:
+#i = 1
+#while i < 5:
+
+while True:
     time.sleep(1790)
     driver.refresh()
     time.sleep(20)
@@ -24,4 +23,4 @@ while i < 5:
     file1.writelines(date+'\n') 
     file1.writelines(table) 
     file1.close()
-    i += 1
+    #i += 1
